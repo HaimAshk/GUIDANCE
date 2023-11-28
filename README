@@ -34,10 +34,10 @@ Installation
 ============
 
   1. Unpack the archive by typing:
-        % tar -xzf guidance.v2.01.tgz
+        % tar -xzf guidance.v2.02.tgz
 
   2. Compile the package by typing:
-        % cd guidance.v2.01
+        % cd guidance.v2.02
         % make
      (Running `make' takes a while)
 
